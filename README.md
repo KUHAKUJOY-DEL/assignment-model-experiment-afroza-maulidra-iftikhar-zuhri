@@ -243,7 +243,7 @@ Harga mengacu pada paid tier Gemini 3.5 Flash-Lite (USD 0,30 per 1 juta token in
 Prasyarat: Python 3.12, Git, VS Code dengan extension **Python** dan **Jupyter**. Perintah di bawah untuk Windows PowerShell.
 
 ```powershell
-git clone https://github.com/<username>/assignment-model-experiment-afroza-maulidra-iftikhar-zuhri.git
+git clone https://github.com/KUHAKUJOY-DEL/assignment-model-experiment-afroza-maulidra-iftikhar-zuhri.git
 cd assignment-model-experiment-afroza-maulidra-iftikhar-zuhri
 
 python -m venv .venv
