@@ -1,0 +1,41 @@
+review_id,review_text,y_true,y_pred
+190,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif
+69,"Sudah langganan di toko ini, kualitas selalu konsisten bagus.",positif,positif
+116,"Suka banget sama warnanya, sesuai ekspektasi.",positif,positif
+70,"Kualitas produk sangat memuaskan, akan order lagi.",positif,positif
+174,"Ukuran tidak sesuai, terlalu kecil dari yang dipesan.",negatif,negatif
+7,Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,negatif
+72,"Suka banget sama warnanya, sesuai ekspektasi.",positif,positif
+55,"Fast respon, pengiriman cepat, barang aman sampai tujuan.",positif,positif
+75,"Produk palsu, bukan barang original seperti yang dijanjikan.",negatif,negatif
+115,Komplain tidak ditanggapi sama sekali oleh penjual.,negatif,negatif
+162,"Fast respon, pengiriman cepat, barang aman sampai tujuan.",positif,positif
+113,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif
+11,"Bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,positif
+191,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif
+61,"Sangat mengecewakan, uang saya seperti terbuang percuma.",negatif,negatif
+19,"Produk original dan berfungsi dengan baik, terima kasih!",positif,positif
+192,Pelayanan lambat dan tidak responsif saat dikomplain.,negatif,negatif
+189,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif
+4,Warna produk berbeda jauh dari foto di listing.,negatif,negatif
+48,Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,negatif
+2,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif
+31,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif
+136,"Produk original dan berfungsi dengan baik, terima kasih!",positif,positif
+81,"Sangat puas dengan pembelian ini, akan beli lagi di lain waktu.",positif,positif
+10,"Bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,positif
+90,"Barangnya bagus banget, sesuai foto dan pengiriman cepat!",positif,positif
+20,"Pelayanan cepat tanggap, produk berkualitas tinggi.",positif,positif
+149,"Barangnya bagus banget, sesuai foto dan pengiriman cepat!",positif,positif
+182,"Produk original dan berfungsi dengan baik, terima kasih!",positif,positif
+137,"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,negatif
+8,"Belanja disini selalu puas, kualitas terjaga.",positif,positif
+128,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif
+135,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif
+168,"Tidak sesuai standar, banyak cacat pada produk yang diterima.",negatif,negatif
+39,"Kualitas produk jelek, baru dipakai sekali sudah rusak.",negatif,negatif
+158,"Produk palsu, bukan barang original seperti yang dijanjikan.",negatif,negatif
+43,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif
+127,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif
+179,"Suka banget sama warnanya, sesuai ekspektasi.",positif,positif
+198,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif

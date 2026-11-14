@@ -1,0 +1,5 @@
+skenario,model,n_test,n_dievaluasi,n_gagal,accuracy,precision_macro,recall_macro,f1_macro
+group_split,Classical ML,40,40,0,0.625,0.6278195488721805,0.6287878787878788,0.6247654784240151
+group_split,Gemini,40,40,0,1.0,1.0,1.0,1.0
+random_split,Classical ML,40,40,0,1.0,1.0,1.0,1.0
+random_split,Gemini,40,40,0,1.0,1.0,1.0,1.0
